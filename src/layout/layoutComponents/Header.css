@@ -1,0 +1,8 @@
+.header{
+    width: 100vw;
+    max-width: 100vw; /* Ensures it doesn't exceed viewport */
+    height: auto;
+    background-color: rgba(23, 26, 31, 0.8);
+    padding: 1% 1% 0% 1%;
+    position: fixed;
+}
