@@ -52,3 +52,7 @@ A simple **Dashboard** application that organizes widgets into categories, allow
 - Use the Add Widget option in the Header to add/remove widgets across categories.
 - Use the Add Widget button inside each category to manage widgets specific to that category.
 - Remove widgets with the ❌ button on each widget card.
+
+## Deploy
+- Deployed using GitHub Pages
+- Link - https://jahnavis2003.github.io/widgets-dashboard/
